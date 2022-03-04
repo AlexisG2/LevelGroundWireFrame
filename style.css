@@ -34,11 +34,39 @@ body{
 /* LAYOUT
 /*******************************************/
 header {
+    height: 10%;
+    width: 100%;
+    border: 2px solid black;
+}
 
+.sectionOne{
+    height: 50%;
+    width: 100%;
+    border: 2px solid green;
+}
+
+.sectionTwo{
+    height: 40%;
+    width: 100%;
+    border: 2px solid brown;
+}
+
+.sectionThree{
+    height: 40%;
+    width: 100%;
+    border: 2px solid grey;
+}
+
+.sectionFour{
+    height: 40%;
+    width: 100%;
+    border: 2px solid teal;
 }
 
 footer {
-
+    height: 20%;
+    width: 100%;
+    border: 2px solid orange;
 }
 
 /******************************************
