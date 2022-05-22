@@ -37,12 +37,14 @@ header {
     height: 10%;
     width: 100%;
     border: 2px solid black;
+    background: rgb(105,118,136);
 }
 
 .sectionOne{
     height: 50%;
     width: 100%;
     border: 2px solid green;
+    background: rgb(105,118,136);
 }
 
 .sectionTwo{
@@ -55,6 +57,7 @@ header {
     height: 40%;
     width: 100%;
     border: 2px solid grey;
+    background: rgb(220,223,226);
 }
 
 .sectionFour{
@@ -67,6 +70,7 @@ footer {
     height: 20%;
     width: 100%;
     border: 2px solid orange;
+    background: rgb(24,31,41);
 }
 
 /******************************************
