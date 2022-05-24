@@ -60,6 +60,18 @@ header {
     background: rgb(220,223,226);
 }
 
+.subSectionOne{
+    height: 100%;
+    width: 50%; 
+    border: 2px solid black;
+}
+
+.subSectionTwo{
+    height: 100%;
+    width: 50%; 
+    border: 2px solid pink;
+}
+
 .sectionFour{
     height: 40%;
     width: 100%;
