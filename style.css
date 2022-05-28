@@ -80,10 +80,30 @@ header {
     border: 2px solid black;
 }
 
+.sectionThreeDiv{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25%;
+}
+
 .subSectionTwo{
     height: 100%;
     width: 50%; 
     border: 2px solid pink;
+}
+
+.secondSectionThreeDiv{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
 }
 
 .sectionFour{
