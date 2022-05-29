@@ -51,9 +51,27 @@ header {
     align-items: center;
 }
 
+.sectionOneDiv{
+    height: 100%;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .sectionTwo{
     height: 55%;
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sectionTwoDiv{
+    height: 100%;
+    width: 70%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -104,6 +122,15 @@ header {
 .sectionFour{
     height: 70%;
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sectionFourDiv{
+    height: 100%;
+    width: 70%;
     display: flex;
     flex-direction: column;
     justify-content: center;
